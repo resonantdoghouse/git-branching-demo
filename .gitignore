@@ -4,5 +4,6 @@ mockups
 # globbing pattern, using * in front of extension
 *.zip 
 BandSite-Package-Sprint-1
+cat.txt
 
  
