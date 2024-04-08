@@ -1,4 +1,8 @@
 node_modules
 mockups
 .DS_Store
-.zip
+# globbing pattern, using * in front of extension
+*.zip 
+BandSite-Package-Sprint-1
+
+ 
